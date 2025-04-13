@@ -30,6 +30,10 @@
 
 
 ## Установка и запуск
+Скачайте exe по ссылке https://github.com/rstriggers/expense_tracker/releases/download/alpha/expense_tracker.exe
+Запустите приложение!
+
+### Альтернативный способ
 
 ### Предварительные требования
 
